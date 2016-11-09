@@ -3884,7 +3884,7 @@
 
 	#intro {
 		background-attachment: fixed;
-		background-image: url("images/intro.svg");
+		background-image: url("../../images/addon1.png");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
@@ -3917,3 +3917,22 @@
 			}
 
 		}
+
+
+/*
+#two {
+    position: relative;
+    z-index: 999;
+    background-color: rgba(183,78,145,.7);
+}
+
+#two::after {
+    content: '';
+    position: absolute;
+    z-index: 999;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(0, 0, 0, .1);
+}*/
